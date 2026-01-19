@@ -1,0 +1,709 @@
+{
+  "name": "🌏 Discovery",
+  "description": "A curated collection of resources for developers and tech enthusiasts.",
+  "children": [
+    {
+      "name": "Learning & Knowledge",
+      "description": "Platforms and resources for learning programming, languages, and computer science.",
+      "children": [
+        {
+          "name": "Programming",
+          "children": [
+            {
+              "name": "General Programming Platforms",
+              "links": [
+                {
+                  "label": "freeCodeCamp",
+                  "url": "https://www.freecodecamp.org/",
+                  "description": "Learn to code for free with interactive tutorials"
+                },
+                {
+                  "label": "Codecademy",
+                  "url": "http://www.codecademy.com/",
+                  "description": "Interactive coding lessons and courses"
+                },
+                {
+                  "label": "GeeksForGeeks",
+                  "url": "https://www.geeksforgeeks.org/",
+                  "description": "Computer science tutorials and practice problems"
+                },
+                {
+                  "label": "Exercism",
+                  "url": "https://exercism.org/",
+                  "description": "Code practice and mentorship"
+                },
+                {
+                  "label": "Codewars",
+                  "url": "https://www.codewars.com/",
+                  "description": "Challenge yourself with coding katas"
+                },
+                {
+                  "label": "Khan Academy",
+                  "url": "https://pt.khanacademy.org/",
+                  "description": "Free educational platform with programming courses"
+                },
+                {
+                  "label": "Code.org",
+                  "url": "http://studio.code.org/",
+                  "description": "Learn computer science fundamentals"
+                },
+                {
+                  "label": "edX",
+                  "url": "https://www.edx.org/",
+                  "description": "Free online courses from world's best universities"
+                },
+                {
+                  "label": "Udemy",
+                  "url": "https://www.udemy.com/",
+                  "description": "Online courses on programming and technology"
+                },
+                {
+                  "label": "Veduca",
+                  "url": "http://www.veduca.com.br/cursos/gratuitos",
+                  "description": "Free online courses in Portuguese"
+                },
+                {
+                  "label": "Boot.dev",
+                  "url": "https://www.boot.dev/tracks/backend",
+                  "description": "Backend development learning track"
+                },
+                {
+                  "label": "StudyFetch",
+                  "url": "https://www.studyfetch.com/",
+                  "description": "AI-powered learning platform"
+                }
+              ]
+            },
+            {
+              "name": "Languages",
+              "links": [
+                {
+                  "label": "Learn Python",
+                  "url": "https://www.learnpython.org/",
+                  "description": "Interactive Python tutorials"
+                },
+                {
+                  "label": "JavaScript.info",
+                  "url": "https://javascript.info/",
+                  "description": "Comprehensive JavaScript guide"
+                },
+                {
+                  "label": "Learn C#",
+                  "url": "https://learncs.org/",
+                  "description": "Interactive C# tutorials"
+                },
+                {
+                  "label": "Rustlings",
+                  "url": "https://github.com/rust-lang/rustlings",
+                  "description": "Rust language exercises"
+                }
+              ]
+            },
+            {
+              "name": "Brazilian Platforms",
+              "links": [
+                {
+                  "label": "Rocketseat",
+                  "url": "https://app.rocketseat.com.br/",
+                  "description": "Brazilian platform for modern web development"
+                },
+                {
+                  "label": "Digital Innovation One",
+                  "url": "https://web.digitalinnovation.one/home",
+                  "description": "Free tech courses in Portuguese"
+                },
+                {
+                  "label": "desenvolvedor.io",
+                  "url": "https://desenvolvedor.io/",
+                  "description": "Brazilian programming courses and tutorials"
+                },
+                {
+                  "label": "balta.io",
+                  "url": "https://balta.io/",
+                  "description": "Brazilian tech education platform"
+                },
+                {
+                  "label": "IGTI",
+                  "url": "https://online.igti.com.br/",
+                  "description": "Brazilian institute of tech and innovation"
+                }
+              ]
+            },
+            {
+              "name": "Books",
+              "links": [
+                {
+                  "label": "System Design Interview",
+                  "url": "https://www.amazon.es/dp/1736049119/ref=cm_sw_r_as_gl_api_gl_i_FKW3YAZC5C8174D5JVHG?linkCode=ml1&tag=1687886076-21",
+                  "description": "An Insider's Guide: Volume 2, A comprehensive guide to system design interviews"
+                },
+                {
+                  "label": "Angular Projects",
+                  "url": "https://www.amazon.es/dp/1803239115/ref=cm_sw_r_as_gl_api_gl_i_FPJPCJNFSAGM2KHY8Y9Y?linkCode=ml1&tag=1687886076-21",
+                  "description": "Build modern web apps in Angular 16 with 10 different projects and cutting-edge technologies. Learn Angular by building real-world projects"
+                },
+                {
+                  "label": "Clean Architecture",
+                  "url": "https://www.amazon.es/dp/0134494164/ref=cm_sw_r_as_gl_api_gl_i_5KH58N09SPHD7FS7B7WR?linkCode=ml1&tag=1687886076-21",
+                  "description": "A Craftsman's Guide to Software Structure and Design. Guide to software architecture principles"
+                },
+                {
+                  "label": "Clean Code",
+                  "url": "https://www.amazon.es/dp/0132350882/ref=cm_sw_r_as_gl_api_gl_i_PFRM2RMGQY17DJYBCNTM?linkCode=ml1&tag=1687886076-21",
+                  "description": "A Handbook of Agile Software Craftsmanship. Best practices for writing clean code"
+                },
+                {
+                  "label": "Implementing Domain-Driven Design",
+                  "url": "https://www.amazon.es/dp/0321834577/ref=cm_sw_r_as_gl_api_gl_i_3P26HX4E2QW5HXFX4V66?linkCode=ml1&tag=1687886076-21",
+                  "description": "Practical guide to implementing DDD"
+                },
+                {
+                  "label": "Domain-Driven Design",
+                  "url": "https://www.amazon.es/dp/0321125215/ref=cm_sw_r_as_gl_api_gl_i_HZY441HXTDRKH5FPKA6K?linkCode=ml1&tag=1687886076-21",
+                  "description": "Tackling Complexity in the Heart of Software. Foundational concepts of domain-driven design"
+                }
+              ]
+            },
+            {
+              "name": "Frontend",
+              "children": [
+                {
+                  "name": "Angular",
+                  "links": [
+                    {
+                      "label": "Docs",
+                      "url": "https://angular.dev",
+                      "description": "Official Angular documentation"
+                    },
+                    {
+                      "label": "University",
+                      "url": "https://blog.angular-university.io/",
+                      "description": "In-depth Angular tutorials and courses"
+                    },
+                    {
+                      "label": "Update Guide",
+                      "url": "https://update.angular.io/",
+                      "description": "Guide for updating Angular versions"
+                    },
+                    {
+                      "label": "Material",
+                      "url": "https://material.angular.io/",
+                      "description": "Material Design components for Angular"
+                    },
+                    {
+                      "label": "SoloLearn Course",
+                      "url": "https://www.sololearn.com/en/learn/courses/angular-developer",
+                      "description": "Interactive Angular learning course"
+                    },
+                    {
+                      "label": "ShipAngular",
+                      "url": "https://shipangular.com/",
+                      "description": "Angular SaaS boilerplate and starter kit"
+                    }
+                  ]
+                },
+                {
+                  "name": "React",
+                  "links": [
+                    {
+                      "label": "Reactlingo",
+                      "url": "https://www.reactlingo.com/",
+                      "description": "Learn React interactively"
+                    },
+                    {
+                      "label": "FreeCodeCamp course",
+                      "url": "https://www.freecodecamp.org/learn/front-end-development-libraries-v9/",
+                      "description": "Free React development course"
+                    }
+                  ]
+                },
+                {
+                  "name": "HTML & CSS",
+                  "links": [
+                    {
+                      "label": "CSSBattle",
+                      "url": "https://cssbattle.dev/",
+                      "description": "CSS code-golfing challenges"
+                    },
+                    {
+                      "label": "Codier",
+                      "url": "https://codier.io/",
+                      "description": "Frontend coding challenges"
+                    },
+                    {
+                      "label": "Wes Bos Courses",
+                      "url": "https://courses.wesbos.com/account",
+                      "description": "Premium web development courses"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Algorithms & CS",
+              "links": [
+                {
+                  "label": "MIT OpenCourseWare – Algorithms",
+                  "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+                  "description": "Free MIT algorithms course"
+                },
+                {
+                  "label": "The Algorithms",
+                  "url": "https://the-algorithms.com/",
+                  "description": "Algorithm implementations in multiple languages"
+                },
+                {
+                  "label": "LeetCode",
+                  "url": "https://leetcode.com/",
+                  "description": "Coding interview practice platform"
+                },
+                {
+                  "label": "HackerRank",
+                  "url": "https://www.hackerrank.com/",
+                  "description": "Coding challenges and competitions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Idioms & Languages",
+          "links": [
+            {
+              "label": "Duolingo",
+              "url": "https://www.duolingo.com/",
+              "description": "Language learning platform"
+            },
+            {
+              "label": "Memrise",
+              "url": "https://www.memrise.com/",
+              "description": "Language learning with spaced repetition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Architecture & Systems",
+      "description": "Resources on software architecture, design patterns, and system design.",
+      "children": [
+        {
+          "name": "Design Patterns",
+          "links": [
+            {
+              "label": "Refactoring Guru",
+              "url": "https://refactoring.guru/",
+              "description": "Design patterns and refactoring guide"
+            },
+            {
+              "label": "doFactory .NET Patterns",
+              "url": "https://www.dofactory.com/net/design-patterns",
+              "description": ".NET design patterns reference"
+            },
+            {
+              "label": "DDD Community",
+              "url": "https://dddcommunity.org/",
+              "description": "Domain-Driven Design resources"
+            }
+          ]
+        },
+        {
+          "name": "System Design",
+          "links": [
+            {
+              "label": "roadmap.sh",
+              "url": "https://roadmap.sh/",
+              "description": "Developer roadmaps and guides"
+            },
+            {
+              "label": "Technical Interviews",
+              "url": "https://technicalinterviews.dev/",
+              "description": "System design interview preparation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Infrastructure & Cloud",
+      "description": "Resources for cloud computing, DevOps, and networking.",
+      "children": [
+        {
+          "name": "Containers & Kubernetes",
+          "links": [
+            {
+              "label": "Kubernetes on Azure",
+              "url": "https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/",
+              "description": "Learn Kubernetes on Microsoft Azure"
+            },
+            {
+              "label": "Introduction to Kubernetes (edX)",
+              "url": "https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS158x+1T2024/home",
+              "description": "Free Kubernetes fundamentals course"
+            }
+          ]
+        },
+        {
+          "name": "DevOps Learning",
+          "links": [
+            {
+              "label": "KodeKloud",
+              "url": "https://kodekloud.com/",
+              "description": "DevOps and cloud training platform"
+            },
+            {
+              "label": "AWS Training",
+              "url": "https://www.aws.training/",
+              "description": "Official AWS training resources"
+            }
+          ]
+        },
+        {
+          "name": "Networking & VPN",
+          "links": [
+            {
+              "label": "WireGuard",
+              "url": "https://www.wireguard.com/",
+              "description": "Modern VPN protocol"
+            },
+            {
+              "label": "WireGuard on Raspberry Pi",
+              "url": "https://www.wundertech.net/setup-wireguard-on-a-raspberry-pi-vpn-setup-tutorial/",
+              "description": "Setup guide for WireGuard VPN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Security & Privacy",
+      "description": "Resources focused on cybersecurity and privacy tools.",
+      "children": [
+        {
+          "name": "Security Practice",
+          "links": [
+            {
+              "label": "TryHackMe",
+              "url": "https://tryhackme.com/dashboard",
+              "description": "Hands-on cybersecurity training"
+            },
+            {
+              "label": "Fail2Ban SSH Protection",
+              "url": "https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-20-04",
+              "description": "Secure SSH with fail2ban"
+            }
+          ]
+        },
+        {
+          "name": "Privacy Tools",
+          "links": [
+            {
+              "label": "OSINT Framework",
+              "url": "https://osintframework.com/",
+              "description": "Open-source intelligence gathering tools"
+            },
+            {
+              "label": "ProtonMail",
+              "url": "https://proton.me/mail",
+              "description": "Secure email service"
+            },
+            {
+              "label": "ProtonVPN",
+              "url": "https://proton.me/vpn",
+              "description": "Privacy-focused VPN service"
+            }
+          ]
+        },
+        {
+          "name": "Authentication",
+          "links": [
+            {
+              "label": "JWT Authentication Example",
+              "url": "https://github.com/WebDevSimplified/JWT-Authentication",
+              "description": "JWT implementation tutorial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI & Data",
+      "description": "Resources related to artificial intelligence, machine learning, and data science.",
+      "children": [
+        {
+          "name": "AI Platforms",
+          "links": [
+            {
+              "label": "Google AI Studio",
+              "url": "https://aistudio.google.com/",
+              "description": "Google's AI experimentation platform"
+            },
+            {
+              "label": "Groq",
+              "url": "https://groq.com/",
+              "description": "Fast AI inference platform"
+            },
+            {
+              "label": "Ollama",
+              "url": "https://ollama.com/",
+              "description": "Run AI models locally"
+            },
+            {
+              "label": "LockedIn AI",
+              "url": "https://www.lockedinai.com/",
+              "description": "AI-powered career platform"
+            },
+            {
+              "label": "Hugging Face",
+              "url": "https://huggingface.co/",
+              "description": "AI model hub and community"
+            },
+            {
+              "label": "Kaggle: Machine Learning",
+              "url": "https://www.kaggle.com/",
+              "description": "Data science competitions and datasets"
+            }
+          ]
+        },
+        {
+          "name": "AI Articles",
+          "links": [
+            {
+              "label": "Using Groq Llama 3 Locally",
+              "url": "https://www.kdnuggets.com/using-groq-llama-3-70b-locally-step-by-step-guide",
+              "description": "Guide to running Llama 3 with Groq"
+            }
+          ]
+        },
+        {
+          "name": "Build with AI",
+          "links": [
+            {
+              "label": "Lovable",
+              "url": "https://lovable.dev/",
+              "description": "AI-powered app creation platform"
+            },
+            {
+              "label": "Emergent",
+              "url": "https://emergent.sh/",
+              "description": "Build AI applications quickly"
+            },
+            {
+              "label": "Aura.build",
+              "url": "https://aura.build/",
+              "description": "AI-assisted application builder"
+            },
+            {
+              "label": "Bolt.new",
+              "url": "https://bolt.new/",
+              "description": "AI-powered full-stack web development"
+            },
+            {
+              "label": "Replit",
+              "url": "https://replit.com/",
+              "description": "Online IDE for rapid app development"
+            },
+            {
+              "label": "Firebase Studio",
+              "url": "https://firebase.google.com/",
+              "description": "Backend-as-a-service platform"
+            },
+            {
+              "label": "v0 by Vercel",
+              "url": "https://v0.dev/",
+              "description": "AI-powered UI component generation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tools & Utilities",
+      "description": "Essential tools and utilities for developers.",
+      "children": [
+        {
+          "name": "IDEs & Editors",
+          "links": [
+            {
+              "label": "Visual Studio Code",
+              "url": "https://code.visualstudio.com/",
+              "description": "Popular code editor with extensions"
+            },
+            {
+              "label": "JetBrains IDEs",
+              "url": "https://www.jetbrains.com/products.html",
+              "description": "Professional IDEs for various programming languages"
+            },
+            {
+              "label": "GitHub Codespaces",
+              "url": "https://github.com/features/codespaces",
+              "description": "Cloud-based development environments"
+            }
+          ]
+        },
+        {
+          "name": "Developer Tools",
+          "links": [
+            {
+              "label": "Swagger Editor",
+              "url": "https://editor.swagger.io/",
+              "description": "Design and document APIs with OpenAPI specification"
+            },
+            {
+              "label": "Postman",
+              "url": "https://www.postman.com/",
+              "description": "API development and testing tool"
+            },
+            {
+              "label": "Insomnia",
+              "url": "https://insomnia.rest/",
+              "description": "API design and testing platform"
+            },
+            {
+              "label": "Fiddler",
+              "url": "https://www.telerik.com/fiddler",
+              "description": "Web debugging proxy tool"
+            },
+            {
+              "label": "NextDNS",
+              "url": "https://nextdns.io/",
+              "description": "Privacy-focused DNS service"
+            }
+          ]
+        },
+        {
+          "name": "Online Coding",
+          "links": [
+            {
+              "label": "CodeSignal",
+              "url": "https://codesignal.com/",
+              "description": "Practice coding and prepare for technical interviews"
+            },
+            {
+              "label": "CodinGame",
+              "url": "https://www.codingame.com/",
+              "description": "Learn coding through games and challenges"
+            },
+            {
+              "label": "OneCompiler",
+              "url": "https://onecompiler.com/",
+              "description": "Online compiler for quick code testing"
+            }
+          ]
+        },
+        {
+          "name": "Design Tools",
+          "links": [
+            {
+              "label": "Canva",
+              "url": "https://www.canva.com/",
+              "description": "Design platform for creating presentations and graphics"
+            },
+            {
+              "label": "Flowbite",
+              "url": "https://flowbite-admin-dashboard.vercel.app/",
+              "description": "Tailwind CSS admin dashboard components"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Career & Market",
+      "description": "Resources for job searching, interviews, and career development.",
+      "children": [
+        {
+          "name": "Interviews",
+          "links": [
+            {
+              "label": "HackerRank",
+              "url": "https://www.hackerrank.com/dashboard",
+              "description": "Technical interview preparation"
+            },
+            {
+              "label": "Codility",
+              "url": "https://app.codility.com/programmers/",
+              "description": "Coding assessment platform"
+            }
+          ]
+        },
+        {
+          "name": "Jobs",
+          "links": [
+            {
+              "label": "We Work Remotely",
+              "url": "https://weworkremotely.com/",
+              "description": "Remote job listings"
+            },
+            {
+              "label": "Remote OK",
+              "url": "https://remoteok.io/",
+              "description": "Remote job board for tech roles"
+            },
+            {
+              "label": "6nomads",
+              "url": "https://6nomads.com/",
+              "description": "Remote job board for digital nomads"
+            },
+            {
+              "label": "Wellfound",
+              "url": "https://wellfound.com/",
+              "description": "Startup jobs and career opportunities"
+            },
+            {
+              "label": "Indeed",
+              "url": "https://www.indeed.com/",
+              "description": "Job search platform with remote filters"
+            },
+            {
+              "label": "ZipRecruiter",
+              "url": "https://www.ziprecruiter.com/",
+              "description": "Job matching and application platform"
+            },
+            {
+              "label": "Turing",
+              "url": "https://www.turing.com/",
+              "description": "Remote software engineering jobs"
+            },
+            {
+              "label": "VanHack",
+              "url": "https://www.vanhack.com/",
+              "description": "Remote tech jobs and hiring events"
+            },
+            {
+              "label": "LinkedIn",
+              "url": "https://www.linkedin.com/jobs/",
+              "description": "Professional networking and job search"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Labs & Experiments",
+      "description": "Innovative projects and experiments in technology.",
+      "children": [
+        {
+          "name": "Automation & Bots",
+          "links": [
+            {
+              "label": "WhatsApp Bot with n8n",
+              "url": "https://blog.n8n.io/whatsapp-bot/",
+              "description": "Build WhatsApp automation workflows"
+            }
+          ]
+        },
+        {
+          "name": "Ideas",
+          "links": [
+            {
+              "label": "Side Hustle with ChatGPT",
+              "url": "https://www.forbes.com/sites/rachelwells/2025/06/30/5-chatgpt-prompts-to-launch-a-5000month-side-hustle/",
+              "description": "ChatGPT prompts for side income"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
