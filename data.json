@@ -267,6 +267,16 @@
           ]
         },
         {
+          "name": "Hardware & Repair",
+          "links": [
+            {
+              "label": "iFixit (PT-BR)",
+              "url": "https://pt.ifixit.com/",
+              "description": "Free step-by-step repair guides for devices and hardware"
+            }
+          ]
+        },
+        {
           "name": "Idioms & Languages",
           "links": [
             {
@@ -434,6 +444,11 @@
           "name": "AI Platforms",
           "links": [
             {
+              "label": "There's An AI For That (Free)",
+              "url": "https://free.theresanaiforthat.com/",
+              "description": "Curated directory of AI tools with free plans and trials"
+            },
+            {
               "label": "Google AI Studio",
               "url": "https://aistudio.google.com/",
               "description": "Google's AI experimentation platform"
@@ -575,6 +590,11 @@
           "name": "Online Coding",
           "links": [
             {
+              "label": "ZType",
+              "url": "https://zty.pe/",
+              "description": "Typing game to build keyboard speed and accuracy"
+            },
+            {
               "label": "CodeSignal",
               "url": "https://codesignal.com/",
               "description": "Practice coding and prepare for technical interviews"
@@ -683,6 +703,16 @@
       "name": "Labs & Experiments",
       "description": "Innovative projects and experiments in technology.",
       "children": [
+        {
+          "name": "Personal Projects",
+          "links": [
+            {
+              "label": "TV Time - Up Next",
+              "url": "https://asynclucas.github.io/tv-time/",
+              "description": "Local-first tracker for watched shows and upcoming episodes"
+            }
+          ]
+        },
         {
           "name": "Automation & Bots",
           "links": [
