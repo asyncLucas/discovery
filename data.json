@@ -270,9 +270,24 @@
           "name": "Hardware & Repair",
           "links": [
             {
+              "label": "Instructables",
+              "url": "https://www.instructables.com/",
+              "description": "Community DIY projects and step-by-step how-to guides"
+            },
+            {
               "label": "iFixit (PT-BR)",
               "url": "https://pt.ifixit.com/",
               "description": "Free step-by-step repair guides for devices and hardware"
+            }
+          ]
+        },
+        {
+          "name": "Music Theory",
+          "links": [
+            {
+              "label": "musictheory.net",
+              "url": "https://www.musictheory.net/",
+              "description": "Free lessons, exercises and tools for music theory"
             }
           ]
         },
@@ -560,6 +575,16 @@
           "name": "Developer Tools",
           "links": [
             {
+              "label": "Free for Developers",
+              "url": "https://free-for.dev/#/",
+              "description": "Directory of services with free tiers for developers"
+            },
+            {
+              "label": "Whereby",
+              "url": "https://whereby.com/",
+              "description": "Browser-based video meetings with no downloads"
+            },
+            {
               "label": "Swagger Editor",
               "url": "https://editor.swagger.io/",
               "description": "Design and document APIs with OpenAPI specification"
@@ -612,6 +637,36 @@
           ]
         },
         {
+          "name": "Design Assets",
+          "links": [
+            {
+              "label": "Unsplash",
+              "url": "https://unsplash.com/",
+              "description": "Free high-resolution stock photography"
+            },
+            {
+              "label": "Pexels (PT-BR)",
+              "url": "https://www.pexels.com/pt-br/",
+              "description": "Free stock photos and videos"
+            },
+            {
+              "label": "unDraw",
+              "url": "https://undraw.co/",
+              "description": "Open-source illustrations with customizable colors"
+            },
+            {
+              "label": "Icon Icons",
+              "url": "https://icon-icons.com/",
+              "description": "Free icons in multiple formats and styles"
+            },
+            {
+              "label": "DaFont (PT)",
+              "url": "https://www.dafont.com/pt/",
+              "description": "Large catalog of free and demo fonts"
+            }
+          ]
+        },
+        {
           "name": "Design Tools",
           "links": [
             {
@@ -632,6 +687,16 @@
       "name": "Career & Market",
       "description": "Resources for job searching, interviews, and career development.",
       "children": [
+        {
+          "name": "Personal Branding",
+          "links": [
+            {
+              "label": "Photofeeler",
+              "url": "https://www.photofeeler.com/",
+              "description": "Feedback on how your profile photos come across"
+            }
+          ]
+        },
         {
           "name": "Interviews",
           "links": [
